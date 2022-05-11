@@ -1,0 +1,42 @@
+[33mcommit e6279bfe33f063380fed09f5b8df0b7549fddbcf[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 86a8d32 ef0f2bb
+Author: James Bond <james.bond@mi5.uk>
+Date:   Wed May 11 14:59:29 2022 +0200
+
+    Merge branch 'version2'
+
+[33mcommit ef0f2bb7cb26bfab54ec9b00cef0662166c5a115[m[33m ([m[1;32mversion2[m[33m)[m
+Author: James Bond <james.bond@mi5.uk>
+Date:   Wed May 11 14:53:41 2022 +0200
+
+    ver2text version 2 mit mehr text
+
+[33mcommit b248b0b9f56cf525cc1c32391c3364b4ec9317b4[m
+Author: James Bond <james.bond@mi5.uk>
+Date:   Wed May 11 14:41:16 2022 +0200
+
+    add ver2text file
+
+[33mcommit 86a8d32a31919b50ec73e37ddc0a79cd8ae59d84[m
+Author: James Bond <james.bond@mi5.uk>
+Date:   Wed May 11 14:34:48 2022 +0200
+
+    add 4 line
+
+[33mcommit 1b24fca8213941e47b655fd13266014e0e5af488[m[33m ([m[1;32mversion1[m[33m)[m
+Author: James Bond <james.bond@mi5.uk>
+Date:   Tue May 10 21:02:21 2022 +0200
+
+    add new line with important message
+
+[33mcommit 53b1c2ded7396f5276d68fa20c5dc562c1c838b2[m
+Author: James Bond <james.bond@mi5.uk>
+Date:   Tue May 10 20:57:24 2022 +0200
+
+    initial version
+
+[33mcommit f14ca57ffea45a96e1bfd7b65d8987b32dcd0d6c[m
+Author: nihilnihil <104843648+nihilnihil@users.noreply.github.com>
+Date:   Tue May 10 20:53:32 2022 +0200
+
+    initial version
